@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Allosaurus",
+    "source": "Jurassic"
+  },
+  {
+    "id": 2,
+    "name": "Parasaurolophus",
+    "source": "Cretaceous"
+  },
+  {
+    "id": 3,
+    "name": "Velociraptor",
+    "source": "Cretaceous"
+  },
+  {
+    "id": 4,
+    "name": "Ankylosaurus",
+    "source": "Cretaceous"
+  },
+  {
+    "id": 5,
+    "name": "Brachiosaurus",
+    "source": "Jurassic"
+  },
+  {
+    "id": 6,
+    "name": "Triceratops",
+    "source": "Cretaceous"
+  }
+]
